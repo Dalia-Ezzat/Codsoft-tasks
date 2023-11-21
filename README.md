@@ -1,6 +1,6 @@
 # My experience as a web development intern at Codsoft.
 
-#Projects and Contributions:- Throughout my internship, I undertook a diverse array of projects, each presenting an opportunity to apply my web development expertise to real-world contexts.
+Projects and Contributions:- Throughout my internship, I undertook a diverse array of projects, each presenting an opportunity to apply my web development expertise to real-world contexts.
 
 Project 1:Landing-page https://landing-page-dalia-ezzat.vercel.app/ Technologies Used: HTML, CSS, Bootstrap, JavaScript and Jquery
 
