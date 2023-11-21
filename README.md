@@ -8,7 +8,7 @@ Landing-page https://landing-page-dalia-ezzat.vercel.app/
 Technologies Used: HTML, CSS, Bootstrap, JavaScript and Jquery
 
 Project 2: 
-Portfolio https://my-portfolio-dalia-ezzat.vercel.app/
+Portfolio https://dalia-ezzat.github.io/my-portfolio/
 Technologies Used: HTML, CSS, Bootstrap, JavaScript and Jquery
 
 Project 3:
